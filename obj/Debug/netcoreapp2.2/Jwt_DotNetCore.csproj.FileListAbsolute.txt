@@ -1,0 +1,14 @@
+E:\Bibliotecas\Documents\Documents\Filipe\Demos\Jwt_DotNetCore\bin\Debug\netcoreapp2.2\Jwt_DotNetCore.deps.json
+E:\Bibliotecas\Documents\Documents\Filipe\Demos\Jwt_DotNetCore\bin\Debug\netcoreapp2.2\Jwt_DotNetCore.runtimeconfig.json
+E:\Bibliotecas\Documents\Documents\Filipe\Demos\Jwt_DotNetCore\bin\Debug\netcoreapp2.2\Jwt_DotNetCore.runtimeconfig.dev.json
+E:\Bibliotecas\Documents\Documents\Filipe\Demos\Jwt_DotNetCore\bin\Debug\netcoreapp2.2\Jwt_DotNetCore.dll
+E:\Bibliotecas\Documents\Documents\Filipe\Demos\Jwt_DotNetCore\bin\Debug\netcoreapp2.2\Jwt_DotNetCore.pdb
+E:\Bibliotecas\Documents\Documents\Filipe\Demos\Jwt_DotNetCore\obj\Debug\netcoreapp2.2\Jwt_DotNetCore.csprojAssemblyReference.cache
+E:\Bibliotecas\Documents\Documents\Filipe\Demos\Jwt_DotNetCore\obj\Debug\netcoreapp2.2\Jwt_DotNetCore.csproj.CoreCompileInputs.cache
+E:\Bibliotecas\Documents\Documents\Filipe\Demos\Jwt_DotNetCore\obj\Debug\netcoreapp2.2\Jwt_DotNetCore.RazorAssemblyInfo.cache
+E:\Bibliotecas\Documents\Documents\Filipe\Demos\Jwt_DotNetCore\obj\Debug\netcoreapp2.2\Jwt_DotNetCore.RazorAssemblyInfo.cs
+E:\Bibliotecas\Documents\Documents\Filipe\Demos\Jwt_DotNetCore\obj\Debug\netcoreapp2.2\Jwt_DotNetCore.AssemblyInfoInputs.cache
+E:\Bibliotecas\Documents\Documents\Filipe\Demos\Jwt_DotNetCore\obj\Debug\netcoreapp2.2\Jwt_DotNetCore.AssemblyInfo.cs
+E:\Bibliotecas\Documents\Documents\Filipe\Demos\Jwt_DotNetCore\obj\Debug\netcoreapp2.2\Jwt_DotNetCore.RazorTargetAssemblyInfo.cache
+E:\Bibliotecas\Documents\Documents\Filipe\Demos\Jwt_DotNetCore\obj\Debug\netcoreapp2.2\Jwt_DotNetCore.dll
+E:\Bibliotecas\Documents\Documents\Filipe\Demos\Jwt_DotNetCore\obj\Debug\netcoreapp2.2\Jwt_DotNetCore.pdb
